@@ -10,14 +10,14 @@ config_version=5
 
 [application]
 
-config/name="FurryChess"
+config/name="FurryBattlegrounds"
 run/main_scene="res://Scenes/Main.tscn"
-config/features=PackedStringArray("4.3", "C#", "GL Compatibility")
+config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="FurryChess"
+project/assembly_name="FurryBattlegrounds"
 
 [rendering]
 
