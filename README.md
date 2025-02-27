@@ -1,5 +1,5 @@
 # FurryChess
-A chees game made with Godot
+A battlegrounds game made with Godot
 
 
 
