@@ -1,9 +1,7 @@
 # FurryChess
-A battlegrounds game made with Godot
-
-
+A battlegrounds game made with Godot(.NET)
 
 ## Environment
 
 - Windows11
-- Godot4.3(.NET)
+- Godot4.4(.NET)

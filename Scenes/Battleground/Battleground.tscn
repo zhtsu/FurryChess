@@ -1,12 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://c6bog6k2toa2v"]
+[gd_scene load_steps=2 format=3 uid="uid://cdgp7tigx2nuf"]
 
-[ext_resource type="Script" path="res://Scenes/Battleground/Battleground.cs" id="1_ettns"]
-[ext_resource type="PackedScene" uid="uid://de6kpga87ukdj" path="res://Scenes/Battleground/Tiles/BlackTile.tscn" id="2_x18s7"]
+[ext_resource type="Script" uid="uid://dnnhyjmxugp3k" path="res://Scenes/Battleground/Battleground.cs" id="1_xe5vo"]
 
 [node name="Battleground" type="Node2D"]
-position = Vector2(229, 34)
-script = ExtResource("1_ettns")
-
-[node name="BlackTile" parent="." instance=ExtResource("2_x18s7")]
-position = Vector2(209, 184)
-scale = Vector2(0.5, 0.5)
+script = ExtResource("1_xe5vo")

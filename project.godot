@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="FurryBattlegrounds"
-run/main_scene="res://Scenes/Main.tscn"
-config/features=PackedStringArray("4.3", "C#", "GL Compatibility")
+run/main_scene="uid://bqtqkfxvl7bpw"
+config/features=PackedStringArray("4.4", "C#", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [dotnet]
